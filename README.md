@@ -1,4 +1,4 @@
-GeRuMap - a mind map managing software, where users can create, manage, save, export, customize their mindmaps. Made together with Mihailo Đorđević from Računarski fakultet university.
+GeRuMap - a mind map managing software, where users can create, manage, save, export, customize their mindmaps. Made together with Mihailo Đorđević from Računarski fakultet university. The project relies heavily un a number of design patterns, namely: factory, abstract factory, interface abstraction, singleton, command, state, logger, observer, mvc
 
 ![](gerumap-1.png)
 
